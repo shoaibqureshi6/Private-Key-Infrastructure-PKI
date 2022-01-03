@@ -208,11 +208,10 @@ sudo vi /etc/hosts
         % cat server.crt >> server.pem
         openssl s_server -cert server.pem -www
         
-        
-https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.1.jpeg
-https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.2.jpeg
-https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.3.jpeg
-https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.jpeg
+        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.1.jpeg)
+        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.2.jpeg)
+        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.3.jpeg)
+        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.jpeg)
 
 
 
@@ -247,7 +246,7 @@ https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.j
           DirectoryIndex index.html
           </VirtualHost>
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task4d.PNG)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/4.1.jpeg)
 
 
           <VirtualHost *:443>
@@ -259,7 +258,7 @@ https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.j
           SSLCertificateKeyFile /etc/apache2/ssl/key.pem
           </VirtualHost>
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task4e.PNG)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/4.2.jpeg)
 
           // Test the Apache configuration file for errors
           $ sudo apachectl configtest
@@ -270,5 +269,5 @@ https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.j
           // Restart Apache
           $ sudo service apache2 restart
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task4f.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task4g.PNG)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/4.3.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/4.4.jpeg)
