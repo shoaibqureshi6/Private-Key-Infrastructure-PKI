@@ -34,8 +34,8 @@ If you enter '.', the field will be left blank.
             Email Address []:waleedshahbaz012@gmail.com
             
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task1.jpg)
-
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/1.1.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/1.2.jpeg)
 
 # Task 2
              
