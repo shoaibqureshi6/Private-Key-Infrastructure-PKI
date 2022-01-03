@@ -26,12 +26,12 @@ For some fields there will be a default value,
 If you enter '.', the field will be left blank.
 
             Country Name (2 letter code) [AU]:PK
-            State or Province Name (full name) [Some-State]:SAHIWAL
-            Locality Name (eg, city) []:SWL
-            Organization Name (eg, company) [Internet Widgits Pty Ltd]:UOS
-            Organizational Unit Name (eg, section) []:UOSahiwal
-            Common Name (e.g. server FQDN or YOUR name) []:WALEED
-            Email Address []:waleedshahbaz012@gmail.com
+            State or Province Name (full name) [Some-State]:PUNJAB
+            Locality Name (eg, city) []:Sahiwal
+            Organization Name (eg, company) [Internet Widgits Pty Ltd]:STC
+            Organizational Unit Name (eg, section) []:STCS
+            Common Name (e.g. server FQDN or YOUR name) []:
+            Email Address []:elham@elham.com
             
 
 ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/1.1.jpeg)
@@ -105,9 +105,9 @@ coefficient:
             15:90:a4:8c
 
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2a.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2b.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2c.PNG)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/2.1.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/2.2.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/2.3.jpeg)
 
 
 # writing RSA key
@@ -144,16 +144,16 @@ For some fields there will be a default value,
 If you enter '.', the field will be left blank.
 
             Country Name (2 letter code) [AU]:PK
-            State or Province Name (full name) [Some-State]:sahiwal
-            Locality Name (eg, city) []:swl
-            Organization Name (eg, company) [Internet Widgits Pty Ltd]:UOS
-            Organizational Unit Name (eg, section) []:UOSahiwal
+            State or Province Name (full name) [Some-State]:Punjab
+            Locality Name (eg, city) []:sahiwal
+            Organization Name (eg, company) [Internet Widgits Pty Ltd]:STC
+            Organizational Unit Name (eg, section) []:STCS
             Common Name (e.g. server FQDN or YOUR name) []:SEEDPKILab2020.com
-            Email Address []:www.asadali.worked.area@gmail.com    
+            Email Address []:elham@elham.com   
 
 Please enter the following 'extra' attributes
 to be sent with your certificate request
-A challenge password []:asadali
+A challenge password []:abc123
 An optional company name []:
 
 
@@ -178,10 +178,10 @@ Certificate Details:
               Subject:
                   countryName               = PK
                   stateOrProvinceName       = sahiwal
-                  organizationName          = UOS
-                  organizationalUnitName    = UOSahiwal
+                  organizationName          = STC
+                  organizationalUnitName    = STCS
                   commonName                = SEEDPKILab2020.com
-                  emailAddress              = waleedshahbaz012@gmail.com
+                  emailAddress              = elham@elham.com
               X509v3 extensions:
                   X509v3 Basic Constraints: 
                       CA:FALSE
