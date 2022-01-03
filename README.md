@@ -157,7 +157,6 @@ A challenge password []:abc123
 An optional company name []:
 
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2e.jpg)
 
 
 
@@ -199,7 +198,7 @@ Sign the certificate? [y/n]:y
 1 out of 1 certificate requests certified, commit? [y/n]y
 Write out database with 1 new entries
 Data Base Updated
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2f.PNG)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/2.3.jpeg)
 
 
 # Task 3
@@ -210,13 +209,10 @@ sudo vi /etc/hosts
         openssl s_server -cert server.pem -www
         
         
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3a.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3b.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3c.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3d.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3e.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3f.PNG)
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task3g.PNG)
+https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.1.jpeg
+https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.2.jpeg
+https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.3.jpeg
+https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.jpeg
 
 
 
