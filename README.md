@@ -208,11 +208,11 @@ sudo vi /etc/hosts
         % cat server.crt >> server.pem
         openssl s_server -cert server.pem -www
         
-        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.1.jpeg)
-        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.2.jpeg)
-        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.3.jpeg)
-        ![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.jpeg)
-
+        
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.1.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.2.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.3.jpeg)
+![alt tag](https://github.com/shoaibqureshi6/Private-Key-Infrastructure-PKI/blob/main/3.4.jpeg)
 
 
 # Task 4
