@@ -1,4 +1,4 @@
-# Private-Key-Infrastructure-PKI
+# Public-Key-Infrastructure-PKI
 
 # Task 1
 
